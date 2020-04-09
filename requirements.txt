@@ -1,0 +1,8 @@
+Scrapy==1.8.0
+lxml
+redis
+requests
+twisted
+DBUtils
+PyMySQL
+demjson
